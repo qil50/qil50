@@ -44,8 +44,8 @@
   </div>
     
   <h2 align="center">Operative System:</h2>
-    <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
-    <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+    <img align="center" alt="Ubuntu-icon" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+    <img align="center" alt="Windows-icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
 
 
 
