@@ -39,7 +39,7 @@
     <img align="center" alt="Microsoft-Office-icon" src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117">
     <h2 align="center">Skills</h2>
     <img align="center" alt="Html5-icon" src="https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
-    <img align="center" alt="CSS-icon" src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117">
+<!--     <img align="center" alt="CSS-icon" src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117"> -->
     <img align="center" alt="Git-Icon" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
   </div>
     
