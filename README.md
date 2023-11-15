@@ -33,7 +33,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="350" alt="coding-time" src="code.gif">
       <h2 align="center">Tools</h2>
-    <img align="center" alt="VSCode-icon" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
+    <img align="center" alt="VSCode-icon" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=white">
     <img align="center" alt="GitHub-icon" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
     <img align="center" alt="Windows-icon" src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">
     <img align="center" alt="Microsoft-Office-icon" src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117">
