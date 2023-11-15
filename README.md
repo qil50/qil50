@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&center=true&multiline=true&random=false&width=800&lines=I+am+Meshal+Security+researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Meshal+Alsubaie!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
