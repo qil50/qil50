@@ -17,7 +17,41 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<p align="center">
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
+  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
+  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
+</p>
+<br>
+
+<h1 align="center"> Languages/Frameworks I'm learning: </h1>
+<p align="center">
+  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
+  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
+  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
+  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+</p>
+<br>
+
+<h1 align="center"> Environments I work with: </h1>
+<p align="center">
+  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
+  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+</p>
+<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/qil50"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="qil50" /></a></p><br><br>
