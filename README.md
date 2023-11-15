@@ -43,8 +43,9 @@
     <img align="center" alt="Git-Icon" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
   </div>
     
-  <h2 align="center">Studying in this moment:</h2>
-    <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+  <h2 align="center">Operative System:</h2>
+    <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+    <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
 
 
 
