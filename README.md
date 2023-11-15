@@ -9,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<!-- !-->
-<a target="_blank" rel="noreferrer" href="https://twitter.com/LMStudioAI" title="LM Studio's Twitter. Opens in the browser" class="transition ease-in-out-300  bg-gray-400/10 hover:bg-blue-400/20 hover:ring-1 hover:ring-white/50 text-white/70 hover:text-white px-2 w-fit py-2 rounded-md flex flex-row space-x-2 items-center"><img src="/static/media/twitter.0994819c4416f510adad167ed5b5828b.svg" alt="Twitter" class="w-5"><div><p class="text-[13px]">Twitter</p> </div></a>
-<!-- !-->
+
 
 <p align="left">
 <a href="https://twitter.com/qil500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" ackground-color= rgba(156,163,175,.1); alt="qil500" height="30" width="40" /></a>
